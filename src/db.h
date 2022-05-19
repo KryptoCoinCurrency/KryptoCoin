@@ -11,8 +11,6 @@
 #include <string>
 #include <vector>
 
-#include <db_cxx.h>
-
 class CAddress;
 class CAddrMan;
 class CBlockLocator;

@@ -6,9 +6,6 @@
 #define BITCOIN_NET_H
 
 #include <deque>
-#include <boost/array.hpp>
-#include <boost/foreach.hpp>
-#include <openssl/rand.h>
 
 #ifndef WIN32
 #include <arpa/inet.h>

@@ -8,8 +8,6 @@
 #include "uint256.h"
 #include "serialize.h"
 
-#include <openssl/sha.h>
-#include <openssl/ripemd.h>
 #include <vector>
 
 template<typename T1>

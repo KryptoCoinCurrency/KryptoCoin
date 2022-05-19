@@ -8,8 +8,6 @@
 #include <string>
 #include <vector>
 
-#include <boost/foreach.hpp>
-#include <boost/variant.hpp>
 
 #include "keystore.h"
 #include "bignum.h"
